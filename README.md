@@ -3,10 +3,10 @@
 - ﻿﻿Description
 - ﻿﻿Links
 ### Project 2
-Description
-- Links
+- Description
+- [Myproject link](www.goggle.com)
 ## Education
-Some University
+- Some University
 ## Work History
-Workplace 1
-Work Place 2
+- Workplace 1
+- Work Place 2
